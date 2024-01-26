@@ -137,3 +137,8 @@ Below is the archtecture design for the microservices
 
 -> Assumptions and Design Decisions:
     Assumption: Product and Customer services don't need direct communication, Product and Order service need to communicate with each other so used amqplib library.
+
+-> Architecture:
+![A3F27132-6508-4249-B37D-5B8AE2A00787](https://github.com/ankurRawat19/travluk-ecom/assets/76221938/d7bd560e-2410-4e77-a454-b557e81c699f)
+
+    
